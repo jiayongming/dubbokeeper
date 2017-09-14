@@ -107,6 +107,7 @@ monitor.log.home=/usr/dev/op_disk/monitor-log
 
 
 按照上面对应存储配置完毕之后，执行`start-xx.sh(bat)`，便启动了dk的存储
+[安装过程参看](http://de4e944e.wiz03.com/share/s/3ujFhe1tTQrF2siEaN0CVqgM2sZsnb0srARl2xQ2iC0DaUm5)
 
 
 
